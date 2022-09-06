@@ -1,1 +1,144 @@
+মডুলার ইনভার্স সম্পর্কিত কিছু অপটিমাইজেশন
 
+post:https://www.facebook.com/legacy/notes/1264736377067463/
+RISAL SHAHRIAR SHEFIN·WEDNESDAY, JANUARY 15, 2020·
+[মডুলার অ্যারিথমেটিক এবং ইনভার্স সম্পর্কে জানতে এসব লিংকে ঘুরে আসা যেতে পারেঃ       মডুলার অ্যারিথমেটিক , Modular Inverse]
+কোনো কোনো প্রবলেমে অনেক নাম্বারের মডুলার ইনভার্স প্রিক্যালকুলেট করে রাখতে হয় । তখন TLE থেকে বাঁচতে এই টাইপের অপটিমাইজেশন প্রয়োজন হয় । যেমনঃ KUET IUPC, 2019 এর F নং প্রবলেমটা । সাথে একটা জিনিসও জানা থাকা দরকার । অতিরিক্ত mod অপারেশনও প্রচুর সময় খরচ করে TLE দিতে পারে ।
+আলোচনার সুবিধার্থে ধরে নিচ্ছি আমরা মডুলার ইনভার্স বের করব একটি মৌলিক সংখ্যা m এর সাপেক্ষে ।
+প্রবলেম ১ঃ n দেওয়া আছে । 1! থেকে n! পর্যন্ত সবগুলো i! এর মডুলার ইনভার্স বের করতে হবে ।
+সলিউশনঃ সাধারণ এপ্রোচ হচ্ছে, প্রথমে সবগুলো 1 <= i <= n এর জন্য (factorial[i] mod m) বের করে রাখা । এরপর প্রত্যেক 1 <= i <= n এর জন্য factorial[i] (mod m) এর মডুলার ইনভার্স ক্যালকুলেট করা । একটি সংখ্যার মডুলার ইনভার্স বের করার কমপ্লেক্সিটি অভারল O(logm) ধরা হয় । তাহলে প্রত্যেক 1 <= i <= n এর মডুলার ইনভার্স বের করার কমপ্লেক্সিটি এই মেথডে O(nlogm) ।
+কিন্তু এটা কিন্তু O(n) এই বের করা সম্ভব :D ।  প্রথমে আমরা n! (mod m) এর মান বের করব একটা  লিনিয়ার লুপ চালিয়ে। এরপর শুধু n! (mod m) এর মডুলার ইনভার্স বের করে রাখব । এখন একটা জিনিস লক্ষ্য করি, 
+
+
+অর্থাৎ, এখান থেকে আমরা একটা লিনিয়ার রিলেশন পেতে পারিঃ  inv[n-1] (mod m) = inv[n] * n (mod m), যেখানে inv[n] হচ্ছে m এর সাপেক্ষে n! এর মডুলার ইনভার্স। এই রিলেশন কাজে লাগিয়ে আমরা খুব সহজেই (n-1) থেকে 1 পর্যন্ত লুপ চালিয়ে 1! থেকে n! পর্যন্ত সকল i! এর মডুলার ইনভার্স O(n) এ বের করতে পারি।
+Total Complexity for Calculating Modular Inverse: O(logm + n) ≈ O(n)
+প্রবলেম ২ঃ দুটি সংখ্যা b (b≠m)এবং n দেওয়া আছে ।  b¹ থেকে bⁿ পর্যন্ত সবগুলো  bⁱ এর মডুলার ইনভার্স বের করতে হবে ।
+সলিউশনঃ প্রত্যেকটি bⁱ (mod m), bigmod ব্যবহার করে বের করে তারপর তাদের মডুলার ইনভার্স ক্যালুকুলেট করে অভারল O(nlogm) এ এই প্রবলেম সলভ করা যায়। কিন্তু এই প্রবলেমও O(n) এ সলভ করা সম্ভব । প্রথমে bⁿ (mod m), bigmod ব্যবহার করে বের করব । এরপর এর মডুলার ইনভার্স বের করব। এখন, 
+
+তাহলে, এখান থেকে এই লিনিয়ার রিলেশন পাওয়া যায়ঃ inv[n-1] (mod m) = inv[n] * b (mod m), যেখানে, inv[n] হচ্ছে m এর সাপেক্ষে bⁿ এর মডুলার ইনভার্স । এই রিলেশন কাজে লাগিয়ে খুব সহজেই (n-1) থেকে 1 পর্যন্ত একটি লুপ চালিয়ে b¹ থেকে bⁿপর্যন্ত সবগুলো bⁱ এর মডুলার ইনভার্স O(n) এ বের করা সম্ভব ।
+Total Complexity for Calculating Modular Inverse: O(logm + n) ≈ O(n)
+
+
+post:https://www.facebook.com/groups/341771679363942/permalink/666549470219493
+এই কোডটা একটু রান করে দেখা যাকঃ #include <stdio.h> int main(){ char p, q, r; scanf("%c", &p); scanf("%c", &q); scanf("%c", &r); printf("%c %c %c\n", p, q, r); return 0; }
+
+সমাধানঃ
+তাহলে মাঝের এই ENTERটাকে যদি কোনভাবে খেয়ে ফেলা যায় তাহলেইতো হয় তাই না ? scanf(“%c %c” , &a, &b) আর scanf(“%c%c”, &a, &b) এর মধ্যে পার্থক্য আছে । উপরে %c দুইটার মাঝে একটা স্পেস দিয়ে বুঝাচ্ছে, এই দুইটা ইনপুট ক্যারেক্টারের মাঝে white space character ( \n,\t,\r) থাকতে পারে। সেগুলোকে গ্রাস করে নিবে এই স্পেসটুকু । ফলে ENTER আর ভ্যারিয়েবলের ভেতর ঢুকে যাবে না । উপরের কোডটাকে যদি এভাবে লিখা যায়ঃ
+
+#include <stdio.h> int main(){ char p, q, r; scanf("%c", &p); scanf(" %c", &q); // একটা স্পেস দিয়েছি আগে scanf(" %c", &r); // একটা স্পেস দিয়েছি আগে printf("%c %c %c\n", p, q, r); return 0; } তাহলেই আর সমস্যাটা থাকবে না।
+
+
+Code Depository
+A Asif Khan Chowdhury
+Extended Euclid: http://pastebin.com/PyXu67cM
+
+ 
+
+Pascal's Triangle: http://pastebin.com/DjdveJDP
+
+ 
+
+Modular Inverse of N number in O(N): http://pastebin.com/CRU5gK7v
+
+ 
+
+nCr using factorial and inverse modulo (n*log(n)) : http://pastebin.com/aWBAs7An
+
+ 
+
+Pascal Triangle using O(r) space complexity: http://pastebin.com/7KVfHVzH
+
+ 
+
+nCr using Matrix Exponential: http://pastebin.com/rVRU5YVD
+
+ 
+
+nCr using Lucas Theorem: http://pastebin.com/pUGrn72R
+
+
+**All prime number algorithms that we need for contests:
+
+ 
+
+***Any Suggestion or modification will be appreciated.. :) 
+
+------------------------------ ---------------------
+
+ 
+
+Prime Number: 
+
+প্রাইম সংখ্যা হলো সেসব সংখ্যা যাদের ১ এবং সেই সংখ্যটি ব্যতিত কোনো সংখ্যা দিয়ে ভাগ করা যায়না,যেমন ২,৩,৫,৭,২৯ ইত্যাদি। একটা সংখ্যা প্রাইম কিনা তা খুব সহজেই আমরা কোড করে ফেলতে পারি । কিন্তু এই Brute Force এলগোরিদম দিয়ে কোন বড় ধরনের প্রাইম নম্বর জেনারেট করতে অনেক সময় লেগে যায় । So, কন্টেস্ট টাইমে এটা avoid করাই উত্তম ।
+
+ 
+
+Algortihm: Known to all.
+
+Performance: slow.
+
+ 
+
+Prime Generator(Seive):
+
+দ্রুত গতিতে প্রাইম সংখ্যা বের করার একটি পদ্ধতি আবিষ্কার করেন Eratosthenes,২০০ খ্রিস্টপূর্বের একজন গ্রীক গণিতবিদ । এর মাধ্যমে আমরা খুব সহজে 10^8 পর্যন্ত প্রাইম জেনারেট করতে পারি। 
+
+ 
+
+Algorithm link: http://www.shafaetsplanet.com/planetcoding/?p=624
+
+Performance: Fast. Reduces Time Limit.
+
+Problem link: http://codeforces.com/problemset/problem/230/B
+
+ 
+
+Bitwise Seive:
+
+A little bit modification of seive. Also generate 10^8 primes.
+
+ 
+
+Algorithm link: http://www.shafaetsplanet.com/planetcoding/?p=855
+
+Performance: Faster than general Seive. Reduces Time and memory limit.
+
+Problem link: http://www.spoj.pl/problems/TDPRIMES/
+
+ 
+
+Primality Test (Miller-Rabbin):
+
+যদি কখনো শুধু এইটুকু বলা হয় যে একটি নম্বর প্রাইম কি প্রাইম না এবং সংখ্যাটি যদি 10^8 এর বড় হয় তাহলে এর জন্য সল্যুশন হচ্ছে Miller Rabin Primality Test. এটা সিভ এর মতো প্রাইম জেনারেট করেনা । কিন্তু কোন সংখ্যা প্রাইম কি প্রাইম না তা খুব কম সময়ের মদ্ধে বলে দেয় । এটা দ্বারা 10^18 পর্যন্ত কোন সংখ্যার Primality Test করা সম্ভব। Java BIG integer ইউজ করেও এই পরিমান প্রাইম বের করা সম্ভব । সেক্ষেত্রে এই রকম বিশাল এলগরিদম এর কোন প্রয়োজন নেই। 
+
+ 
+
+Algorthim Link: http://www.sanfoundry.com/cpp-program-implement-miller-rabin-primality-test/
+
+Performance: High. Best of All.
+
+Problem link: http://www.codechef.com/problems/WITMATH
+
+ 
+
+Also see: http://en.wikipedia.org/wiki/Primality_test
+
+ 
+
+A Short and easy code of Primality test:
+
+This code can also accurately test the primality of a given number less than 10^18. 
+
+ 
+
+Code Link:  http://pastebin.com/2nYM9tnS
+
+Performance: Slower than miller-rabbin.
+
+ 
+
+1000 digit primality test code: http://pastebin.com/XN1YxHNG
+
+ 
+
+Also see felix halim book Page 218 for more prime related problems.
