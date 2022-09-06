@@ -97,3 +97,12 @@ https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 Found from ancient notes in another group, just copy pasting it, originally written by Saad Ahmed Sadi vai~
 
 শাফায়েতের ব্লগ- http://www.shafaetsplanet.com/planetcoding/ জানে আলম জান -http://lightoj.com/article_showcategory.php ইকরাম মাহমুদ ফাহিমের ব্লগ- https://sites.google.com/site/smilitude/ জোবায়ের হাসানের ব্লগ- http://zobayer.blogspot.com/ http://zobayer2009.wordpress.com/ রিজোয়ান তৌফিক স্যারের ব্লগ - http://rizoantoufiq.blogspot.in এররের ব্লগ - https://sites.google.com/site/erorown/algorithmist আহমেদ শামসুল আরেফিনের ব্লগ- http://www.acmsolver.org/bangla/ প্রোগক্রিয়া- http://www.progkriya.org/ আরিফুজ্জামান আরিফের ব্লগ- http://isolvedaproblem.blogspot.com/ সাব্বির ইউসুফ সানির ব্লগ- http://one-problem-a-day.blogspot.com/ http://recurringblunders.blogspot.com/ প্রোগ্রামিং কনসেপ্ট- https://sites.google.com/site/programinggconcept/ আলাভোলার ব্লগ- http://alavolacoder.blogspot.com/ অনিন্দ্য সুন্দর পালের ব্লগ- http://binaryrongo.wordpress.com/ আহমাদ ফাইয়াজের ব্লগ- http://itsfaiyaz.wordpress.com/ বিধানের ব্লগ - http://bidhanr.wordpress.com/ এরর এর ব্লগ - https://sites.google.com/site/erorown/ আই ইউ টি ব্লগ- http://doinik-iut.com/archives/23106 সুবিন ভাইয়ের সাইট- http://cpbook.subeen.com/ ফাইয়াজ বিন হোসেনের ব্লগ- http://faiazerblog.blogspot.com/ ফারসানের ব্লগ- http://potasiyam.com/farsan/ মশিউর এর ব্লগ -http://problem-solving-notes.blogspot.com/ আনা ফারিহার ব্লগ - http://chorui12.blogspot.com/ তাওসিকের ব্লগ- http://tausiq.wordpress.com/ শরীফের স্বপ্নরাজ্য - http://www.techsharif.com/ শিখরের ব্লগ - http://shikhorroy.wordpress.com/ সায়েফের ব্লগ - http://sketchingdream.wordpress.com/ সায়মুমের ব্লগ - http://saimoomsafayet.wordpress.com/ শাকিলের ব্লগ - http://shakilcompetitiveprogramming.blogspot.com/ মাহফুজের ব্লগ - http://www.mahfuzsust.info/ আসিফের হ-য-ব-র-ল - http://www.abuasifkhan.me/
+
+
+Inversion counting: http://codeforces.com/gym/100589/problem/H
+
+Counting ways of traversing between 2 cells in grid: http://codeforces.com/gym/100589/problem/F
+
+Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
+
+http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
