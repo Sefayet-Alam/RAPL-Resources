@@ -1,0 +1,43 @@
+Supplementary resources for the last graph theory class:
+1. http://www.shafaetsplanet.com/?p=143
+2. http://www.shafaetsplanet.com/?p=184
+3. http://www.shafaetsplanet.com/?p=211
+
+Supplementary resources for the last graph theory class (DFS, BFS, 0-1 BFS, DFS tree):
+DFS: http://www.shafaetsplanet.com/?p=973
+DFS: https://cp-algorithms.com/graph/depth-first-search.html
+DFS: https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/
+BFS: http://www.shafaetsplanet.com/?p=604
+BFS: https://cp-algorithms.com/graph/breadth-first-search.html
+BFS: https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
+0-1 BFS: https://codeforces.com/blog/entry/22276
+Diameter of a tree using DFS: https://codeforces.com/blog/entry/101271
+DFS tree: https://codeforces.com/blog/entry/68138
+
+Supplementary resources for today's class (Cycle detection, Bipartite graph check, Diameter of a tree):
+Cycle detection: https://cp-algorithms.com/graph/finding-cycle.html
+Bipartite graph check: https://cp-algorithms.com/graph/bipartite-check.html
+Diameter of a tree: https://codeforces.com/blog/entry/101271
+
+
+Supplementary resources for the previous class (Dijkstra and Bellman-Ford):
+
+*Dijkstra:*
+- http://www.shafaetsplanet.com/?p=1500
+- https://cp-algorithms.com/graph/dijkstra.html
+- https://cp-algorithms.com/graph/dijkstra_sparse.html
+
+*Bellman-Ford:*
+- http://www.shafaetsplanet.com/?p=2044
+- https://cp-algorithms.com/graph/bellman_ford.html
+- https://cp-algorithms.com/graph/finding-negative-cycle-in-graph.html
+
+
+Hashmap internal concepts if anyone is interested: https://www.programiz.com/dsa/hash-table
+Two useful methods in bitset: https://codeforces.com/blog/entry/43718
+
+
+
+Order Statistics Tree: https://codeforces.com/blog/entry/11080
+GP Hash Table: https://codeforces.com/blog/entry/60737
+Bitset: https://codeforces.com/blog/entry/73558
