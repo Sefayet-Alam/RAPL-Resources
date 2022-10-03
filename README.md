@@ -4,8 +4,8 @@ As suggested by Ashadullah Shawon vai, the purpose of this doc is to find old re
 
 Codechef’s resource compilation: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 
-///*Template if Anyone need
-https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ *///
+/*Template if Anyone need
+https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ*/
 
 ***Topics: Loop, Array and String.
 Link: https://vjudge.net/contest/486963
