@@ -4,9 +4,74 @@ As suggested by Ashadullah Shawon vai, the purpose of this doc is to find old re
 
 Codechef’s resource compilation: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 
-__Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview
+***Template if Anyone need
+https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 
-__STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__
+***Topics: Loop, Array and String.
+Link: https://vjudge.net/contest/486963
+Password: amrapari
+
+***Prefix_sum
+Link: https://vjudge.net/contest/488382
+Password: amrapari
+Resources: 
+https://youtu.be/K-OJ-Mkc8u4
+
+***topics:
+*1. Recursion
+*2. Subset Generation
+*3. Permutation Generation
+contest:https://vjudge.net/contest/490878?fbclid=IwAR1ShSOLFsxtWTfqu2bOi_sxgFTX99-45_M5YHE-zSNFhSThSbXs-8PkJyE#overview
+পাসওয়ার্ডঃ amrapari
+রিসোর্সঃ
+https://sites.google.com/site/smilitude/recursion_and_dp
+http://zobayer.blogspot.com/.../cse-102-attacking...
+টুলঃ
+https://visualgo.net/en/recursion
+https://recursion.vercel.app
+https://pythontutor.com/c.html#mode=edit
+কোডঃ
+সাবসেট জেনারেশনঃ
+https://www.ideone.com/7ATo3P...
+পার্মুটেশন জেনারেশনঃ
+https://ideone.com/zrwU2w
+সেশন রেকর্ডিংঃ
+https://youtu.be/Xrh8qM0OAq8
+
+
+***BASIC MATH
+Link: https://vjudge.net/contest/500948
+Password: amrapari
+Topics:
+1.Divisibility Rules, Big Number Divisibility
+2.Binary Exponentiation
+3.Basic Combinatorics
+Resources:
+https://cp-algorithms.com/algebra/binary-exp.html
+https://www.youtube.com/watch?v=L-Wzglnm4dM
+https://brilliant.org/wiki/divisibility-rules/...
+https://www.youtube.com/watch?v=BGPvOoD65AU
+
+
+***Number Theory:
+contest: Link: https://vjudge.net/contest/506592
+Password: amrajani
+
+***Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview
+STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__
+pass:amrapari
+
+***HASH RESOURCES:
+gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/ 
+contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
+pass:Khub_Shoja
+
+***DSU:
+Marathon Link: https://vjudge.net/contest/503543
+Resources:
+*1. https://codeforces.com/blog/entry/44351 (I'll recommend following the 3 no. code. Don't get distracted by the word HLD.)
+*2. https://codeforces.com/blog/entry/67696
+*3. https://tinyurl.com/3pwm8k8s
 
 Extended Euclid: https://web.facebook.com/groups/341771679363942/permalink/498491447025297/
 
@@ -90,9 +155,7 @@ categorize interesting problem
 
 http://codeforces.com/topic/55548/en5
 
-Template if Anyone need
 
-https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 
 
 
@@ -133,10 +196,5 @@ so finally, ekta example dei, jate bujhte easy hoy
 ![image](https://user-images.githubusercontent.com/99322070/193513088-82836801-78a4-4ba3-9483-c86b527e2a27.png)
 so this is string hashing, ekta N size er string er hash value O(N) e ber kora jay
 
-__###HASH RESOURCES:
-gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/ 
 
 
-__contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
-pass:Khub_Shoja___
-_
