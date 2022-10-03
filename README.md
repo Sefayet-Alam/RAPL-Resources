@@ -124,4 +124,8 @@ mod m ta pore boltesi, ager part tuk bujh, left theke proti index e jaitesi amra
 s[i] hoilo 'a' er jonno 1, 'b' er jonno 2 emon, essentially (s[i]-'a'+1) * p^i eta korbo amra
 
 this will give us a distinct value for any distinct string, but the catch is, p to exponentially bartese, p^1, p^2, p^3 emne, string er size 1e6 hoile p^1e6 o use kora lagbe, eta to bishal boro, ejonno amra kono ekta value diye mod kore store kori hash value ta, m=1e9+7 use kori normally
+so finally, ekta example dei, jate bujhte easy hoy
+
+![image](https://user-images.githubusercontent.com/99322070/193513088-82836801-78a4-4ba3-9483-c86b527e2a27.png)
+so this is string hashing, ekta N size er string er hash value O(N) e ber kora jay
 
