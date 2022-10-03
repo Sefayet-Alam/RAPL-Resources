@@ -106,3 +106,22 @@ Counting ways of traversing between 2 cells in grid: http://codeforces.com/gym/1
 Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
 
 http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
+
+
+###HASHING:
+Given a string of length N(N<=1e6), and Q queries(Q<=1e5), in each query you will be given two integers L and R(1<=L<=R<=N), you have to output "YES" if the substring from L to R is a palindrome, otherwise "NO".
+
+accha boli taile, first e hashing er idea nibo amra ektu, erpor ager problem tay back korbo
+Sayeef
+hashing diye amra ekta string re ekta number diye represent korte pari, duita string compare korte O(length of string) lage, so jodi number diye represent kori amra string duitake, taile O(1) e compare kora jay, string er onek problem ei hashing kaje lage amader
+
+so main jinish, kivabe number diye represent korte parbo jate duita alada string er hash kokhono same na hoy? karon duita alada string er hash same hoye gele to amader ei hash diye kono lav hobe na, vulval answer dibe
+to ekta algorithm ase string hashing er, etake polynomial rolling hash boli amra, eita diye hash korar jonno first e amra ekta prime number select kori, jei koyta different character hoite pare amader string e, tar theke ektu boro prime number normally select kori, 'a' - 'z' hoile p=29 use kora jay, eta select korar por ekta string er hash er formula:
+![image](https://user-images.githubusercontent.com/99322070/193512634-61c1ffd0-3f27-46f2-a5ab-9439da9ad54d.png)
+
+mod m ta pore boltesi, ager part tuk bujh, left theke proti index e jaitesi amra, proti index e kortesi s[i] * p^i
+
+s[i] hoilo 'a' er jonno 1, 'b' er jonno 2 emon, essentially (s[i]-'a'+1) * p^i eta korbo amra
+
+this will give us a distinct value for any distinct string, but the catch is, p to exponentially bartese, p^1, p^2, p^3 emne, string er size 1e6 hoile p^1e6 o use kora lagbe, eta to bishal boro, ejonno amra kono ekta value diye mod kore store kori hash value ta, m=1e9+7 use kori normally
+
