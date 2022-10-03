@@ -128,4 +128,4 @@ so finally, ekta example dei, jate bujhte easy hoy
 
 ![image](https://user-images.githubusercontent.com/99322070/193513088-82836801-78a4-4ba3-9483-c86b527e2a27.png)
 so this is string hashing, ekta N size er string er hash value O(N) e ber kora jay
-
+gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/
