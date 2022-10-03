@@ -109,12 +109,14 @@ Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
 
 http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
 
+_
+__###HASHING:__
 
-###HASHING:
 Given a string of length N(N<=1e6), and Q queries(Q<=1e5), in each query you will be given two integers L and R(1<=L<=R<=N), you have to output "YES" if the substring from L to R is a palindrome, otherwise "NO".
 
 accha boli taile, first e hashing er idea nibo amra ektu, erpor ager problem tay back korbo
-Sayeef
+
+
 hashing diye amra ekta string re ekta number diye represent korte pari, duita string compare korte O(length of string) lage, so jodi number diye represent kori amra string duitake, taile O(1) e compare kora jay, string er onek problem ei hashing kaje lage amader
 
 so main jinish, kivabe number diye represent korte parbo jate duita alada string er hash kokhono same na hoy? karon duita alada string er hash same hoye gele to amader ei hash diye kono lav hobe na, vulval answer dibe
@@ -130,9 +132,11 @@ so finally, ekta example dei, jate bujhte easy hoy
 
 ![image](https://user-images.githubusercontent.com/99322070/193513088-82836801-78a4-4ba3-9483-c86b527e2a27.png)
 so this is string hashing, ekta N size er string er hash value O(N) e ber kora jay
-__###HASH RESOURCES:
-gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/ \n
-_
-contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
-pass:Khub_Shoja_
 
+__###HASH RESOURCES:
+gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/ 
+
+
+__contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
+pass:Khub_Shoja___
+_
