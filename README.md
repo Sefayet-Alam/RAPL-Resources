@@ -208,7 +208,7 @@ Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
 http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
 
 _
-### HASHING:__
+### HASHING:__(credit:sayeef vai)
 
 Given a string of length N(N<=1e6), and Q queries(Q<=1e5), in each query you will be given two integers L and R(1<=L<=R<=N), you have to output "YES" if the substring from L to R is a palindrome, otherwise "NO".
 
