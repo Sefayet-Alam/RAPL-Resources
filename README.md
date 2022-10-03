@@ -4,74 +4,74 @@ As suggested by Ashadullah Shawon vai, the purpose of this doc is to find old re
 
 Codechef’s resource compilation: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 
-/*Template if Anyone need
-https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ*/
+###Template if Anyone need <br />
+https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 
-***Topics: Loop, Array and String.
-Link: https://vjudge.net/contest/486963
-Password: amrapari
+###Topics: Loop, Array and String. <br />
+Link: https://vjudge.net/contest/486963 <br />
+Password: amrapari <br />
 
-***Prefix_sum
-Link: https://vjudge.net/contest/488382
-Password: amrapari
+###Prefix_sum <br />
+Link: https://vjudge.net/contest/488382 <br />
+Password: amrapari <br />
 Resources: 
 https://youtu.be/K-OJ-Mkc8u4
 
-***topics:
-*1. Recursion
-*2. Subset Generation
-*3. Permutation Generation
-contest:https://vjudge.net/contest/490878?fbclid=IwAR1ShSOLFsxtWTfqu2bOi_sxgFTX99-45_M5YHE-zSNFhSThSbXs-8PkJyE#overview
-পাসওয়ার্ডঃ amrapari
+###topics: <br />
+####1. Recursion <br />
+####2. Subset Generation <br />
+####3. Permutation Generation <br />
+contest:https://vjudge.net/contest/490878?fbclid=IwAR1ShSOLFsxtWTfqu2bOi_sxgFTX99-45_M5YHE-zSNFhSThSbXs-8PkJyE#overview <br />
+পাসওয়ার্ডঃ amrapari <br />
 রিসোর্সঃ
 https://sites.google.com/site/smilitude/recursion_and_dp
-http://zobayer.blogspot.com/.../cse-102-attacking...
+http://zobayer.blogspot.com/.../cse-102-attacking... <br />
 টুলঃ
 https://visualgo.net/en/recursion
 https://recursion.vercel.app
-https://pythontutor.com/c.html#mode=edit
+https://pythontutor.com/c.html#mode=edit <br />
 কোডঃ
 সাবসেট জেনারেশনঃ
-https://www.ideone.com/7ATo3P...
+https://www.ideone.com/7ATo3P... <br />
 পার্মুটেশন জেনারেশনঃ
-https://ideone.com/zrwU2w
+https://ideone.com/zrwU2w <br />
 সেশন রেকর্ডিংঃ
-https://youtu.be/Xrh8qM0OAq8
+https://youtu.be/Xrh8qM0OAq8 <br />
 
 
-***BASIC MATH
+###BASIC MATH <br />
 Link: https://vjudge.net/contest/500948
 Password: amrapari
 Topics:
-1.Divisibility Rules, Big Number Divisibility
-2.Binary Exponentiation
-3.Basic Combinatorics
+1.Divisibility Rules, Big Number Divisibility <br />
+2.Binary Exponentiation <br />
+3.Basic Combinatorics <br />
 Resources:
-https://cp-algorithms.com/algebra/binary-exp.html
-https://www.youtube.com/watch?v=L-Wzglnm4dM
-https://brilliant.org/wiki/divisibility-rules/...
-https://www.youtube.com/watch?v=BGPvOoD65AU
+https://cp-algorithms.com/algebra/binary-exp.html <br />
+https://www.youtube.com/watch?v=L-Wzglnm4dM <br />
+https://brilliant.org/wiki/divisibility-rules/... <br />
+https://www.youtube.com/watch?v=BGPvOoD65AU <br />
 
 
-***Number Theory:
-contest: Link: https://vjudge.net/contest/506592
+###Number Theory: <br />
+contest: Link: https://vjudge.net/contest/506592 <br />
 Password: amrajani
 
-***Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview
-STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__
+###Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl <br /> http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview <br />
+STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__ <br />
 pass:amrapari
 
-***HASH RESOURCES:
-gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/ 
-contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
+###HASH RESOURCES: <br />
+gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/  <br />
+contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank <br />
 pass:Khub_Shoja
 
-***DSU:
-Marathon Link: https://vjudge.net/contest/503543
-Resources:
-*1. https://codeforces.com/blog/entry/44351 (I'll recommend following the 3 no. code. Don't get distracted by the word HLD.)
-*2. https://codeforces.com/blog/entry/67696
-*3. https://tinyurl.com/3pwm8k8s
+###DSU: <br />
+Marathon Link: https://vjudge.net/contest/503543 <br />
+Resources: <br />
+*1. https://codeforces.com/blog/entry/44351 (I'll recommend following the 3 no. code. Don't get distracted by the word HLD.) <br />
+*2. https://codeforces.com/blog/entry/67696 <br />
+*3. https://tinyurl.com/3pwm8k8s <br />
 
 Extended Euclid: https://web.facebook.com/groups/341771679363942/permalink/498491447025297/
 
@@ -173,7 +173,7 @@ Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
 http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
 
 _
-__###HASHING:__
+###HASHING:__
 
 Given a string of length N(N<=1e6), and Q queries(Q<=1e5), in each query you will be given two integers L and R(1<=L<=R<=N), you have to output "YES" if the substring from L to R is a palindrome, otherwise "NO".
 
