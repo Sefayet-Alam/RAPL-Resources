@@ -4,23 +4,23 @@ As suggested by Ashadullah Shawon vai, the purpose of this doc is to find old re
 
 Codechef’s resource compilation: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 
-###Template if Anyone need <br />
+### Template if Anyone need <br />
 https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 
-###Topics: Loop, Array and String. <br />
+### Topics: Loop, Array and String. <br />
 Link: https://vjudge.net/contest/486963 <br />
 Password: amrapari <br />
 
-###Prefix_sum <br />
+### Prefix_sum <br />
 Link: https://vjudge.net/contest/488382 <br />
 Password: amrapari <br />
 Resources: 
 https://youtu.be/K-OJ-Mkc8u4
 
-###topics: <br />
-####1. Recursion <br />
-####2. Subset Generation <br />
-####3. Permutation Generation <br />
+### topics: <br />
+#### 1. Recursion <br />
+#### 2. Subset Generation <br />
+#### 3. Permutation Generation <br />
 contest:https://vjudge.net/contest/490878?fbclid=IwAR1ShSOLFsxtWTfqu2bOi_sxgFTX99-45_M5YHE-zSNFhSThSbXs-8PkJyE#overview <br />
 পাসওয়ার্ডঃ amrapari <br />
 রিসোর্সঃ
@@ -39,7 +39,7 @@ https://ideone.com/zrwU2w <br />
 https://youtu.be/Xrh8qM0OAq8 <br />
 
 
-###BASIC MATH <br />
+### BASIC MATH <br />
 Link: https://vjudge.net/contest/500948
 Password: amrapari
 Topics:
@@ -53,27 +53,39 @@ https://brilliant.org/wiki/divisibility-rules/... <br />
 https://www.youtube.com/watch?v=BGPvOoD65AU <br />
 
 
-###Number Theory: <br />
+### Number Theory: <br />
 contest: Link: https://vjudge.net/contest/506592 <br />
 Password: amrajani
 
-###Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl <br /> http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview <br />
+### Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl <br /> http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview <br />
 STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__ <br />
 pass:amrapari
 
-###HASH RESOURCES: <br />
+### HASH RESOURCES: <br />
 gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/  <br />
 contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank <br />
 pass:Khub_Shoja
 
-###DSU: <br />
+
+### Topics: Binary search , recursion , Dynamic programming . 
+Link: https://vjudge.net/contest/187752
+password: amrapari
+Resources: 
+1) Google.com  [ Best resource I've ever found 😛 ]
+2) http://www.shafaetsplanet.com/planetcoding/?p=2279
+3)http://www.shafaetsplanet.com/planetcoding/?p=2295
+4) http://www.geeksforgeeks.org/binary-search/
+5) http://www.geeksforgeeks.org/dynamic-programming/
+
+### DSU: <br />
 Marathon Link: https://vjudge.net/contest/503543 <br />
 Resources: <br />
 *1. https://codeforces.com/blog/entry/44351 (I'll recommend following the 3 no. code. Don't get distracted by the word HLD.) <br />
 *2. https://codeforces.com/blog/entry/67696 <br />
 *3. https://tinyurl.com/3pwm8k8s <br />
 
-Extended Euclid: https://web.facebook.com/groups/341771679363942/permalink/498491447025297/
+
+### Extended Euclid: https://web.facebook.com/groups/341771679363942/permalink/498491447025297/
 
 nCr mod m: For non-prime m <= 10^4 and n, r <= 10^5 - https://web.facebook.com/groups/341771679363942/permalink/497216540486121/ For n, r, m <= 10^9 and squarefree nonprime m with small prime factors - https://web.facebook.com/groups/341771679363942/permalink/498818073659301/ For n, r <= 10^18 and m <= 10^6 https://web.facebook.com/groups/341771679363942/permalink/662686283939145/
 
@@ -161,7 +173,8 @@ http://codeforces.com/topic/55548/en5
 
 Found from ancient notes in another group, just copy pasting it, originally written by Saad Ahmed Sadi vai~
 
-শাফায়েতের ব্লগ- http://www.shafaetsplanet.com/planetcoding/ জানে আলম জান -http://lightoj.com/article_showcategory.php ইকরাম মাহমুদ ফাহিমের ব্লগ- https://sites.google.com/site/smilitude/ জোবায়ের হাসানের ব্লগ- http://zobayer.blogspot.com/ http://zobayer2009.wordpress.com/ রিজোয়ান তৌফিক স্যারের ব্লগ - http://rizoantoufiq.blogspot.in এররের ব্লগ - https://sites.google.com/site/erorown/algorithmist আহমেদ শামসুল আরেফিনের ব্লগ- http://www.acmsolver.org/bangla/ প্রোগক্রিয়া- http://www.progkriya.org/ আরিফুজ্জামান আরিফের ব্লগ- http://isolvedaproblem.blogspot.com/ সাব্বির ইউসুফ সানির ব্লগ- http://one-problem-a-day.blogspot.com/ http://recurringblunders.blogspot.com/ প্রোগ্রামিং কনসেপ্ট- https://sites.google.com/site/programinggconcept/ আলাভোলার ব্লগ- http://alavolacoder.blogspot.com/ অনিন্দ্য সুন্দর পালের ব্লগ- http://binaryrongo.wordpress.com/ আহমাদ ফাইয়াজের ব্লগ- http://itsfaiyaz.wordpress.com/ বিধানের ব্লগ - http://bidhanr.wordpress.com/ এরর এর ব্লগ - https://sites.google.com/site/erorown/ আই ইউ টি ব্লগ- http://doinik-iut.com/archives/23106 সুবিন ভাইয়ের সাইট- http://cpbook.subeen.com/ ফাইয়াজ বিন হোসেনের ব্লগ- http://faiazerblog.blogspot.com/ ফারসানের ব্লগ- http://potasiyam.com/farsan/ মশিউর এর ব্লগ -http://problem-solving-notes.blogspot.com/ আনা ফারিহার ব্লগ - http://chorui12.blogspot.com/ তাওসিকের ব্লগ- http://tausiq.wordpress.com/ শরীফের স্বপ্নরাজ্য - http://www.techsharif.com/ শিখরের ব্লগ - http://shikhorroy.wordpress.com/ সায়েফের ব্লগ - http://sketchingdream.wordpress.com/ সায়মুমের ব্লগ - http://saimoomsafayet.wordpress.com/ শাকিলের ব্লগ - http://shakilcompetitiveprogramming.blogspot.com/ মাহফুজের ব্লগ - http://www.mahfuzsust.info/ আসিফের হ-য-ব-র-ল - http://www.abuasifkhan.me/
+শাফায়েতের ব্লগ- http://www.shafaetsplanet.com/planetcoding/ <br />জানে আলম জান -http://lightoj.com/article_showcategory.php<br /> ইকরাম মাহমুদ ফাহিমের ব্লগ- https://sites.google.com/site/smilitude/<br /> জোবায়ের হাসানের ব্লগ- http://zobayer.blogspot.com/ http://zobayer2009.wordpress.com/ <br />রিজোয়ান তৌফিক স্যারের ব্লগ - http://rizoantoufiq.blogspot.in<br /> এররের ব্লগ - https://sites.google.com/site/erorown/algorithmist<br /> আহমেদ শামসুল আরেফিনের ব্লগ- http://www.acmsolver.org/bangla/ প্রোগক্রিয়া- http://www.progkriya.org/ আরিফুজ্জামান আরিফের ব্লগ- http://isolvedaproblem.blogspot.com/ সাব্বির ইউসুফ সানির ব্লগ- http://one-problem-a-day.blogspot.com/ http://recurringblunders.blogspot.com/<br /> প্রোগ্রামিং কনসেপ্ট- https://sites.google.com/site/programinggconcept/ <br />আলাভোলার ব্লগ- http://alavolacoder.blogspot.com/ <br />অনিন্দ্য সুন্দর পালের ব্লগ- http://binaryrongo.wordpress.com/<br /> আহমাদ ফাইয়াজের ব্লগ- http://itsfaiyaz.wordpress.com/ <br />বিধানের ব্লগ - http://bidhanr.wordpress.com/<br /> এরর এর ব্লগ - https://sites.google.com/site/erorown/<br /> আই ইউ টি ব্লগ- http://doinik-iut.com/archives/23106 <br />
+<br />সুবিন ভাইয়ের সাইট- http://cpbook.subeen.com/ <br />ফাইয়াজ বিন হোসেনের ব্লগ- http://faiazerblog.blogspot.com/ <br />ফারসানের ব্লগ- http://potasiyam.com/farsan/<br /> মশিউর এর ব্লগ -http://problem-solving-notes.blogspot.com/<br /> আনা ফারিহার ব্লগ - http://chorui12.blogspot.com/ <br />তাওসিকের ব্লগ- http://tausiq.wordpress.com/ <br />শরীফের স্বপ্নরাজ্য - http://www.techsharif.com/ <br />শিখরের ব্লগ - http://shikhorroy.wordpress.com/ <br />সায়েফের ব্লগ - http://sketchingdream.wordpress.com/<br /> সায়মুমের ব্লগ - http://saimoomsafayet.wordpress.com/ <br />শাকিলের ব্লগ - http://shakilcompetitiveprogramming.blogspot.com/ <br />মাহফুজের ব্লগ - http://www.mahfuzsust.info/<br /> আসিফের হ-য-ব-র-ল - http://www.abuasifkhan.me/<br />
 
 
 Inversion counting: http://codeforces.com/gym/100589/problem/H
@@ -173,7 +186,7 @@ Multi-source Dijkstra: http://codeforces.com/gym/100589/problem/K
 http://www.spoj.com/problems/classical/sort=11 these are all classical problems. solve first 200-300 problems from here, you will be the master of classical problems. Actually these problems are sub problems of big problems. ( here these problems are sorted by quality)
 
 _
-###HASHING:__
+### HASHING:__
 
 Given a string of length N(N<=1e6), and Q queries(Q<=1e5), in each query you will be given two integers L and R(1<=L<=R<=N), you have to output "YES" if the substring from L to R is a palindrome, otherwise "NO".
 
