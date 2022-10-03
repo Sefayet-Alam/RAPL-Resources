@@ -4,7 +4,8 @@ As suggested by Ashadullah Shawon vai, the purpose of this doc is to find old re
 
 Codechef’s resource compilation: https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
 
-Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview
+__Getting started with C++ STL: https://sites.google.com/site/smilitude/stl https://www.hackerrank.com/domains/cpp/stl http://acm.hust.edu.cn/vjudge/contest/view.action?cid=120013#overview
+STL contest:https://vjudge.net/contest/517112?fbclid=IwAR3OYpeuc8R68fYRlccl9Q5T1BQYaLlE-LqqDD6xNlLll1gFCIZHry8P4Io#overview__
 
 Extended Euclid: https://web.facebook.com/groups/341771679363942/permalink/498491447025297/
 
@@ -128,4 +129,8 @@ so finally, ekta example dei, jate bujhte easy hoy
 
 ![image](https://user-images.githubusercontent.com/99322070/193513088-82836801-78a4-4ba3-9483-c86b527e2a27.png)
 so this is string hashing, ekta N size er string er hash value O(N) e ber kora jay
+__###HASH RESOURCES:
 gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/
+contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank
+pass:Khub_Shoja
+
