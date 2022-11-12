@@ -52,6 +52,19 @@ https://www.youtube.com/watch?v=L-Wzglnm4dM <br />
 https://brilliant.org/wiki/divisibility-rules/... <br />
 https://www.youtube.com/watch?v=BGPvOoD65AU <br />
 
+### Geometry  <br />
+Here is a random marathon on Geometry problems! As onsite contests contain a variety of geometry problems, it is recommended for anyone who is interested in participating in the upcoming IUPCs and ICPC regionals. <br />
+Link: https://vjudge.net/contest/529226 <br />
+Password: geoiseasy <br />
+Starting Time: 12:00 PM, 12 November 2022  <br />
+ Duration: 7 days <br />
+Some resources: <br />
+1. https://www.youtube.com/watch?v=oxckRibjGRU <br />
+2. https://www.youtube.com/watch?v=XMxWarChnZ0  <br />
+3. https://www.youtube.com/watch?v=EC3C7UKC_C4  <br />
+4. https://www.youtube.com/watch?v=-zw7n3_PHHM  <br />
+5. https://www.youtube.com/watch?v=6V-an86FKeA <br />
+
 
 ## Number Theory: <br />
 contest: Link: https://vjudge.net/contest/506592 <br />
