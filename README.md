@@ -90,6 +90,10 @@ Resources:
 4) http://www.geeksforgeeks.org/binary-search/
 5) http://www.geeksforgeeks.org/dynamic-programming/
 
+## Pattern Marching <br />
+Resource: https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
+
+
 ## DSU: <br />
 Marathon Link: https://vjudge.net/contest/503543 <br />
 Resources: <br />
