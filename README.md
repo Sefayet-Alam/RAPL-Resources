@@ -51,6 +51,7 @@ https://cp-algorithms.com/algebra/binary-exp.html <br />
 https://www.youtube.com/watch?v=L-Wzglnm4dM <br />
 https://brilliant.org/wiki/divisibility-rules/... <br />
 https://www.youtube.com/watch?v=BGPvOoD65AU <br />
+segmented sieve:https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html#find-primes-in-range
 
 ### Geometry  <br />
 Here is a random marathon on Geometry problems! As onsite contests contain a variety of geometry problems, it is recommended for anyone who is interested in participating in the upcoming IUPCs and ICPC regionals. <br />
