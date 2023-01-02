@@ -51,6 +51,7 @@ https://cp-algorithms.com/algebra/binary-exp.html <br />
 https://www.youtube.com/watch?v=L-Wzglnm4dM <br />
 https://brilliant.org/wiki/divisibility-rules/... <br />
 https://www.youtube.com/watch?v=BGPvOoD65AU <br />
+sieve:https://www.geeksforgeeks.org/sieve-eratosthenes-0n-time-complexity/
 segmented sieve:https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html#find-primes-in-range
 
 ### Geometry  <br />
@@ -79,6 +80,8 @@ pass:amrapari
 gfg:https://www.geeksforgeeks.org/palindrome-substring-queries/  <br />
 contest: https://vjudge.net/contest/406371?fbclid=IwAR2e9XmP8Gq1wk059PSLHruGUc7UvquPF-mz12QF-raP1WbAx28JSext_u0#rank <br />
 pass:Khub_Shoja
+
+KMP:https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 
 
 ## Topics: Binary search , recursion , Dynamic programming . 
