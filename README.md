@@ -11,6 +11,10 @@ https://drive.google.com/open?id=1EUj6pCJRwpSMPwxht_WKbDAn2RlrVmmZ
 Link: https://vjudge.net/contest/486963 <br />
 Password: amrapari <br />
 
+## important blog: <br/>
+
+link: https://codeforces.com/blog/entry/111217?fbclid=IwAR2ECdsv9upU21-sXJwYgO_6rDzTMlZ0JhCq2QZS1p8l_YJCImHM2HJC1mg
+
 ## Prefix_sum <br />
 Link: https://vjudge.net/contest/488382 <br />
 Password: amrapari <br />
